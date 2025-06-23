@@ -19,3 +19,10 @@ A pixel-perfect clone of an Amazon-style product card using only **HTML and CSS*
 
 ## 📁 Folder Structure
 
+clone-the-card-html-css-remix/
+├── index.html
+├── style.css
+├── assets/
+│ └── images/
+│ └── product.jpg
+└── README.md

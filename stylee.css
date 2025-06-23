@@ -1,0 +1,188 @@
+
+.bg{
+
+  background-color: #fff;
+  height: 150vh;
+  width: 70vh;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 70vh;
+  
+}
+.bg img{
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 9vh;
+  top: 5vh;
+  color: #9c9898;
+  
+}
+.title{
+  
+font-family: Calibri, Arial, sans-serif;
+font-weight: 400;
+text-align: center;
+position: absolute;
+top: 70vh;
+font-size: 26px;
+left: 2vh;
+white-space: pre;
+position: relative;
+left: -70px;
+font-weight: bold;
+position: relative;
+
+}
+.rating{
+  display: flex;
+  position: absolute;
+ position: relative;
+ left: 80px;
+ top: -24vh; 
+ color: #FFA41C;
+ font-size: 1.1em;
+ font-weight: 400;
+ gap: 8px;
+}
+.arrow{
+  font-size: 1.1em;
+  color:#000;
+  font-weight: bold;
+}
+.nb{
+  color: rgb(93, 93, 220);
+  font-size: 0.9em;
+  line-height: 1.69;
+  
+}
+.bought{
+  display: flex;
+  align-items: center;
+  position: absolute;
+  position: relative;
+  left: 70.5vh;
+  top: 107vh;
+  gap: 0.2em;
+  color: #474242;
+  font-size: 1.3em;
+  font-weight: bold;
+  
+}
+.ln-1{
+  font-weight: bold;
+}
+.price{
+  display: flex;
+  align-items: center;
+  position: relative;
+  left: 70.5vh;
+  top:109vh ;
+  margin-bottom: 2px;
+  margin-top: 8px;
+  align-items: flex-end;
+  font-size: 25px;
+
+
+}
+.currency{
+  font-size: 1.2rem;
+  font-weight: 400;
+  position: relative;
+  top: -0.8em; 
+  font-size: 18px;
+  
+}
+.rupees{
+  font-weight: bold;
+  font-size: 32px;
+
+}
+.cent{
+   font-size: 1.2rem;
+  font-weight: 400;
+  position: relative;
+  top: -1.2em; 
+  font-size: 13px;
+  font-weight: 550;
+  
+}
+.delivery{
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 111vh;
+  left: 70.5vh;
+  font-size: 19px;
+  font-weight: 550;
+
+}
+.shipping{
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 112vh;
+  left: 70.5vh;
+  font-size: 19px;
+  font-weight: 549;
+}
+.cart{
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 114vh;
+  left: 70vh;
+  font-size: 19px;
+  background: #FFD814;         
+  color: #111;                 
+  font-weight: 600;
+  font-size: 1.0em;
+  border-radius: 60px;
+  padding: 13px 32px;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-bottom: 999px;
+  width: 79px;
+
+
+}
+.body{
+  background-color: #070607;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
